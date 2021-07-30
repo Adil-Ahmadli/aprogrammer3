@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adil
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning backend developing .
+- 🌱 I’m currently learning backend development .
 - 📫 How to reach me 2395549@protonmail.com
 
 <!---
